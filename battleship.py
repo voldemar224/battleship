@@ -8,6 +8,9 @@ class Battleship:
 
     def start(self):
         self.create_fields()
+
+        # self.setting_ships()
+
         #  main loop
 
         # while not self.game_over():
